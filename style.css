@@ -1,0 +1,77 @@
+.header{
+    background-color :black;
+    display : flex;
+    justify-content: space-between;
+}
+
+.panda{
+    display : flex;
+    color:black
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.chameleon{
+    display : flex;
+    color:black
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.cicada{
+    display : flex;
+    color:black
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.pigeon{
+    display : flex;
+    color:black
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+
+
+
+
+.camel{
+    display : flex;
+    color:black
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+    h1{
+        text-align: center;
+        margin-left: 30px;
+        color : greenyellow
+}
+
+body{
+    background-image: linear-gradient(to right, red , blue);
+    color: whitesmoke;
+    font-family: Lato;
+}
+
